@@ -1,0 +1,59 @@
+{
+  "name": "VCSL Yamaha Upright",
+  "source": "https://github.com/sgossner/VCSL",
+  "license": "CC0-1.0",
+  "samples": [
+    {
+      "midi": 24,
+      "url": "samples/Upright1_Sus_C0_vl2_rr1.wav"
+    },
+    {
+      "midi": 36,
+      "url": "samples/Upright1_Sus_C1_vl2_rr1.wav"
+    },
+    {
+      "midi": 48,
+      "url": "samples/Upright1_Sus_C2_vl2_rr1.wav"
+    },
+    {
+      "midi": 60,
+      "url": "samples/Upright1_Sus_C3_vl2_rr1.wav"
+    },
+    {
+      "midi": 72,
+      "url": "samples/Upright1_Sus_C4_vl2_rr1.wav"
+    },
+    {
+      "midi": 84,
+      "url": "samples/Upright1_Sus_C5_vl2_rr1.wav"
+    },
+    {
+      "midi": 96,
+      "url": "samples/Upright1_Sus_C6_vl2_rr1.wav"
+    },
+    {
+      "midi": 31,
+      "url": "samples/Upright1_Sus_G0_vl2_rr1.wav"
+    },
+    {
+      "midi": 43,
+      "url": "samples/Upright1_Sus_G1_vl2_rr1.wav"
+    },
+    {
+      "midi": 55,
+      "url": "samples/Upright1_Sus_G2_vl2_rr1.wav"
+    },
+    {
+      "midi": 67,
+      "url": "samples/Upright1_Sus_G3_vl2_rr1.wav"
+    },
+    {
+      "midi": 79,
+      "url": "samples/Upright1_Sus_G4_vl2_rr1.wav"
+    },
+    {
+      "midi": 91,
+      "url": "samples/Upright1_Sus_G5_vl2_rr1.wav"
+    }
+  ]
+}
